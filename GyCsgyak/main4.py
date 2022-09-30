@@ -1,0 +1,6 @@
+print("Adja meg a hónap sorszámát!")
+honap = int(input())
+print("Adja meg a {honap}. hónapban hiányzások számát!")
+hianyzas = int(input())
+print("hónap sorszáma: {honap}")
+print(f"A diak a {honap}. hónapban {hianyzas} napot hianyzott")
