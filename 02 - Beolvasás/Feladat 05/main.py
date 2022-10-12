@@ -11,7 +11,7 @@ print("Kérem adja meg a kedvenc együttesének a legjovbb számát")
 bestSong=str(input())
 
 print("Kérem adja meg az együttesnek legjobb számának hosszát")
-trackLength=str(input())
+trackLength=float(input())
 
 system('cls')
 
